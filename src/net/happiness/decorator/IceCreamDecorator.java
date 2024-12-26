@@ -1,4 +1,6 @@
-package net.happiness.model;
+package net.happiness.decorator;
+
+import net.happiness.model.IceCream;
 
 public class IceCreamDecorator implements IceCream {
 
